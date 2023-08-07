@@ -211,11 +211,11 @@ const BLOG = {
             'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      name: '王都グランセル',
+      name: '篇章',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      url: 'https://chenhj0129-my.sharepoint.com/personal/chen_chenhj0129_onmicrosoft_com/Documents/music/%E7%AF%87%E7%AB%A0.mp3?login_hint=Chen%40chenhj0129.onmicrosoft.com&ct=1691390190302&wdOrigin=OFFICECOM-WEB.MAIN.OTHER&cid=4d2f1db6-94b5-44d5-bce5-e12c07a446fb',
       cover:
-            'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/b5/2b/0d/b52b0d1f-37d4-d620-14f7-a2286144c396/196589185235.jpg/600x600bb.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
