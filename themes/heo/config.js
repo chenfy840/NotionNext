@@ -17,7 +17,7 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
+  HERO_CATEGORY_1: { title: '必看精选', url: '/tags/必看精选' },
   HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
